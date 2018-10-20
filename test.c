@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <stdio.h> //header of the code
 
 int main(){
